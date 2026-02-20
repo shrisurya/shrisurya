@@ -6,7 +6,7 @@ Senior Full Stack Web Developer | System Design • Architecture • Backend & F
 
 <p align="center">
 Senior Full Stack Developer with extensive experience in designing, developing, and maintaining
-scalable web applications and backend systems.<br/>
+scalable <br/> web applications and backend systems.<br/>
 Strong focus on system architecture, API design, performance optimization, and clean, maintainable code.<br/>
 Experienced in translating business requirements into robust technical solutions.<br/>
 🇮🇳 India
