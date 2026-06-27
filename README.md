@@ -92,14 +92,3 @@ Build software that is:
 - Secure
 - Scalable
 
----
-
-## Connect
-
-LinkedIn
-
-GitHub
-
-Portfolio
-
-Email
